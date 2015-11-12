@@ -1,20 +1,18 @@
-permalink: /:year/:month/:day/:title.html
+﻿permalink: /:year/:month/:day/:title.html
 paginate: 10
 markdown: redcarpet
 
 # 作者信息
 author: 
-  name: 吕立青
-  email: lv460051518@gmail.com
-  link: http://www.jimmylv.info
-  weibo: http://weibo.com/liqing215
-  github: http://github.com/JimmyLv
-  zhihu: http://www.zhihu.com/people/lu-li-qing-90
+  name: John Smith
+  email: 1096894@gmail.com
+  link: http://1096894.github.io
+  github: http://github.com/1096894
 
 # 站点信息
-title: 吕立青的博客
+title:John Smith的博客
 description: My personal note-blog.
-url: http://jimmylv.info
+url: http://1096894.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -24,7 +22,7 @@ favicon: /public/img/favicon.ico
 # google analytics 设置
 ga:
   id: UA-55089304-1 
-  url: http://blog.jimmylv.info
+  url: http://1096894.github.io
 
 # disqus 设置
 disqus:
