@@ -1,3 +1,8 @@
+> # This Project Is Deprecated
+
+> More details and new features: https://github.com/JimmyLv/jimmylv.github.io
+
+
 ## 使用Rakefile自动生成文章格式
 
 ```shell
